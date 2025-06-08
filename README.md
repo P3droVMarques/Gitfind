@@ -1,6 +1,4 @@
 <img src="https://media1.tenor.com/m/pqgfsPUQ-REAAAAC/panosso.gif" alt="Banner" width="100%" height="" z-index:-1/>
-
-
 # GitFind
 
 GitFind é uma aplicação React que permite buscar usuários do GitHub e listar seus repositórios públicos, exibindo informações do perfil e dos repositórios de forma organizada e responsiva.
