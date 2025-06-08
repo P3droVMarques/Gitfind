@@ -56,9 +56,9 @@ gitfind/
 
 ## Componentes
 
-- #### App.jsx #####: Componente principal. Gerencia os estados, faz as requisições à API do GitHub e renderiza os componentes de interface.
-- #### Header.jsx #####: Componente de cabaçalho.
-- #### ItemList.jsx #####: Componente para exibir cada repositório individualmente, recebendo ```title``` e ```description``` como props.
+- #### App.jsx: Componente principal. Gerencia os estados, faz as requisições à API do GitHub e renderiza os componentes de interface.
+- #### Header.jsx: Componente de cabaçalho.
+- #### ItemList.jsx: Componente para exibir cada repositório individualmente, recebendo ```title``` e ```description``` como props.
 
 ## Hooks e Estados
 
